@@ -5,6 +5,10 @@ header {
     text-align: center;
     margin: 0;
 }
+.topic{
+   color:midnightblue;
+}
+
 
 .button {
     background-color: white;
